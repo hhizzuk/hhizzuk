@@ -2,9 +2,9 @@
 
 I'm a software engineer interested in **AI systems, backend infrastructure, and human-centered products**.
 
-* Building with LLMs, agents, and multimodal AI
-* Interested in backend systems, developer tools, and AI infrastructure
-* Based in San Francisco, CA
+* 🤖 Building with LLMs, agents, and multimodal AI
+* 🧑‍💻 Interested in backend systems, developer tools, and AI infrastructure
+* 🌉 Based in San Francisco, CA
 
 ### Currently
 
