@@ -30,4 +30,4 @@ Currently based in the **San Francisco Bay Area** and looking for opportunities 
 * Healthcare technology
 * Early-stage startups
 
-[LinkedIn](https://www.linkedin.com/in/fajardo-michelle) · [Email](michfajardo2003@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fajardo-michelle) · [Email](mailto::michfajardo2003@gmail.com)
