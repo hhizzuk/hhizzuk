@@ -22,7 +22,7 @@ Building AI-powered products and backend systems with **Python, TypeScript, Post
 
 ### What I'm interested in
 
-AI agents · AI infrastructure · multimodal systems · developer tools · backend engineering · healthcare technology
+AI agents · AI infrastructure · multimodal systems · developer tools · backend engineering
 
 ### Let's connect
 
