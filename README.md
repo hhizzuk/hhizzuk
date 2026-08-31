@@ -16,11 +16,7 @@ Currently based in the **San Francisco Bay Area** and looking for opportunities 
 
 🚀 **Itadaki Health** — AI-powered wearable food logging and health intelligence using FHIR R4.
 
-🤖 **LifeOps AI** — AI assistant built around agentic workflows and structured task execution.
-
 ⚙️ **Commanager** — Full-stack commission management platform with a FastAPI backend, PostgreSQL, Stripe, and RAG.
-
-🕶️ **GlanceSafe** — Multimodal food-safety assistant combining computer vision, OCR, translation, and LLM-based ingredient analysis.
 
 ### Currently interested in
 
