@@ -1,29 +1,33 @@
-# Hi, I'm Michelle! 👋
+# Hi, I'm Michelle 👋
 
-I'm a software engineer interested in **AI systems, backend infrastructure, and human-centered products**.
+I'm a Computer Science graduate from the University of Michigan building **backend systems, AI applications, and developer-focused tools**.
 
-* 🤖 Building with LLMs, agents, and multimodal AI
-* 🧑‍💻 Interested in backend systems, developer tools, and AI infrastructure
-* 🌉 Based in San Francisco, CA
+Currently based in the **San Francisco Bay Area** and looking for opportunities where I can work on challenging backend/infrastructure problems at early-stage companies.
 
-### Currently
+### What I work with
 
-Building AI-powered products and backend systems with **Python, TypeScript, PostgreSQL, AWS, and Docker**.
+**Languages:** Python · TypeScript · JavaScript · C++ · SQL
+**Backend:** FastAPI · Node.js · PostgreSQL · Redis · Docker
+**Cloud:** AWS · GCP · Supabase
+**AI:** LLM APIs · AI agents · RAG · Hugging Face
+**Frontend:** React · Next.js · Tailwind
 
-### Tech
+### Featured projects
 
-**Languages:** Python · TypeScript/JavaScript · Java · C++ · SQL
+🚀 **Itadaki Health** — AI-powered wearable food logging and health intelligence using FHIR R4.
 
-**AI/ML:** LLMs · Multimodal AI · NLP · Hugging Face · OpenAI · Anthropic · xAI
+🤖 **LifeOps AI** — AI assistant built around agentic workflows and structured task execution.
 
-**Backend & Infra:** Node.js · Fastify · Flask · PostgreSQL · Redis · Kafka · Docker · AWS
+⚙️ **Commanager** — Full-stack commission management platform with a FastAPI backend, PostgreSQL, Stripe, and RAG.
 
-**Frontend:** React · Next.js · Tailwind CSS
+🕶️ **GlanceSafe** — Multimodal food-safety assistant combining computer vision, OCR, translation, and LLM-based ingredient analysis.
 
-### What I'm interested in
+### Currently interested in
 
-AI agents · AI infrastructure · multimodal systems · developer tools · backend engineering
+* Backend & distributed systems
+* AI infrastructure and agent reliability
+* Developer tools
+* Healthcare technology
+* Early-stage startups
 
-### Let's connect
-
-[LinkedIn](https://www.linkedin.com/in/fajardo-michelle)
+[LinkedIn](https://wwww.linkedin.com/in/fajardo-michelle) · [Email](michfajardo2003@gmail.com)
