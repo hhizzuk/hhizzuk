@@ -7,9 +7,13 @@ Currently based in the **San Francisco Bay Area** and looking for opportunities 
 ### What I work with
 
 **Languages:** Python · TypeScript · JavaScript · C++ · SQL
+
 **Backend:** FastAPI · Node.js · PostgreSQL · Redis · Docker
+
 **Cloud:** AWS · GCP · Supabase
+
 **AI:** LLM APIs · AI agents · RAG · Hugging Face
+
 **Frontend:** React · Next.js · Tailwind
 
 ### Featured projects
